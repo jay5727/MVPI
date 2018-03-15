@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVPI</string>
+    <string name="NoInternet">Please check the internet connection and try again…!</string>
+    <string name="Mandatory">Field Mandatory</string>
+    <string name="InvalidUserName"><![CDATA[User ID Mismatch. Please re try…!]]></string>
+    <string name="InvalidPassword"><![CDATA[Password Mismatch. Please re try…!]]></string>
+</resources>
