@@ -10,9 +10,13 @@ Sample on MVPI Architectural Pattern &amp; Retrofit-Networking Library by Square
 
 ## Libraries Used ##
 
-* <a href="https://developer.android.com/topic/libraries/support-library/index.html">Support Library</a>
-* <a href="http://square.github.io/retrofit/">Retrofit</a>
-* <a href="http://jakewharton.github.io/butterknife/">ButterKnife</a>
+* <a href="https://kotlinlang.org/">Kotlin</a>
+* <a href="https://developer.android.com/training/dependency-injection/hilt-jetpack">Hilt</a>
+* <a href="https://kotlinlang.org/docs/reference/coroutines-overview.html">Coroutines</a>
+* <a href="https://developer.android.com/topic/libraries/architecture">Android Architecture Components</a>
+* <a href="https://developer.android.com/topic/libraries/architecture/livedata">LiveData</a>
+* <a href="https://developer.android.com/topic/libraries/architecture/viewmodel">ViewModel</a>
+* <a href="https://developer.android.com/topic/libraries/view-binding">ViewBinding</a>
 
 
 
